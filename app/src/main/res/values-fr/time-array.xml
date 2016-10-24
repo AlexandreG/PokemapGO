@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_filter_array">
+        <item>&lt; 1h</item>
+        <item>&lt; 1j</item>
+        <item>&lt; 1sem.</item>
+        <item>&lt; 1mois</item>
+        <item>&lt; 1an</item>
+    </string-array>
+</resources>

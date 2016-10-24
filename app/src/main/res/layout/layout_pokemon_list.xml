@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:orientation="horizontal">
+
+    <AutoCompleteTextView
+        android:id="@+id/layout_pokemon_list_dropdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:imeOptions="actionDone"
+        android:selectAllOnFocus="true"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/layout_pokemon_list_dummy_focus_handler"
+        android:layout_width="0dp"
+        android:layout_height="0dp" />
+
+</LinearLayout>
