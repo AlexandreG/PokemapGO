@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Marker generator</string>
+    <string name="title_activity_home">Map</string>
+
+    <string name="send_dialog_title">Report pokemon</string>
+    <string name="send_dialog_content">Have you seen a %s here and now ?</string>
+    <string name="send_dialog_yes">Yes !</string>
+    <string name="send_dialog_no">No</string>
+
+    <string name="send_pokemon_succes">Pokemon successfully reported</string>
+
+    <string name="asset_pkm_list">pkm.json</string>
+
+    <string name="select_all_pkm">All (151)</string>
+
+    <string name="error_unexpected">An error occured</string>
+    <string name="error_retry">RETRY</string>
+    <string name="error_select_pkm">Please select a Pokemon</string>
+    <string name="error_pokemon_not_found">Pokemon not found</string>
+    <string name="error_request_pokemon">Unable to fetch pokemon list from server. Please try again later</string>
+    <string name="error_request_post">Unable to send pokemon. Please try again later</string>
+
+    <string name="permission_please_allow_gps">Location required to report a Pokemon</string>
+    <string name="permission_please_allow_gps_action">Allow</string>
+
+    <string name="permission_please_unable_gps">Please unable your GPS to report a Pokemon</string>
+    <string name="permission_please_unable_gps_action">UNABLE</string>
+
+
+</resources>

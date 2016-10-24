@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marker generator</string>
+    <string name="title_activity_home">Map</string>
+
+    <string name="send_dialog_title">Signaler un Pokémon</string>
+    <string name="send_dialog_content">Vous venez de voir un %s à cet endroit ?</string>
+    <string name="send_dialog_yes">Oui</string>
+    <string name="send_dialog_no">Non</string>
+
+    <string name="send_pokemon_succes">Signalement envoyé avec succès</string>
+
+    <string name="asset_pkm_list">pkm_fr.json</string>
+
+    <string name="select_all_pkm">Tous (151)</string>
+
+    <string name="error_unexpected">Une erreur est survenue</string>
+    <string name="error_retry">REESSAYER</string>
+    <string name="error_select_pkm">Veuillez sélectionner un Pokémon</string>
+    <string name="error_pokemon_not_found">Pokémon non trouvé</string>
+    <string name="error_request_pokemon">Impossible de récupérer la liste de Pokémon. Veuillez réessayer plus tard</string>
+    <string name="error_request_post">Impossible d\'envoyer le Pokémon. Veuillez réessayer plus tard</string>
+
+    <string name="permission_please_allow_gps">L\'accès au gps est necessaire pour signaler un Pokémon</string>
+    <string name="permission_please_allow_gps_action">AUTORISER</string>
+
+    <string name="permission_please_unable_gps">Veuillez activer votre GPS pour signaler un Pokémon</string>
+    <string name="permission_please_unable_gps_action">ACTIVER</string>
+
+</resources>

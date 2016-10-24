@@ -1,0 +1,908 @@
+[
+  {
+    "id": 151,
+    "name": "Mew",
+    "type1": 14,
+    "type2": 0
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "type1": 14,
+    "type2": 0
+  },
+  {
+    "id": 149,
+    "name": "Dracolosse",
+    "type1": 3,
+    "type2": 16
+  },
+  {
+    "id": 148,
+    "name": "Draco",
+    "type1": 16,
+    "type2": 0
+  },
+  {
+    "id": 147,
+    "name": "Minidraco",
+    "type1": 16,
+    "type2": 0
+  },
+  {
+    "id": 146,
+    "name": "Sulfura",
+    "type1": 3,
+    "type2": 10
+  },
+  {
+    "id": 145,
+    "name": "Electhor",
+    "type1": 3,
+    "type2": 13
+  },
+  {
+    "id": 144,
+    "name": "Artikodin",
+    "type1": 3,
+    "type2": 15
+  },
+  {
+    "id": 143,
+    "name": "Ronflex",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 142,
+    "name": "Ptéra",
+    "type1": 3,
+    "type2": 6
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "type1": 11,
+    "type2": 6
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "type1": 11,
+    "type2": 6
+  },
+  {
+    "id": 139,
+    "name": "Amonistar",
+    "type1": 11,
+    "type2": 6
+  },
+  {
+    "id": 138,
+    "name": "Amonita",
+    "type1": 11,
+    "type2": 6
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 136,
+    "name": "Pyroli",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 135,
+    "name": "Voltali",
+    "type1": 13,
+    "type2": 0
+  },
+  {
+    "id": 134,
+    "name": "Aquali",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 133,
+    "name": "Evoli",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 132,
+    "name": "Métamorph",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 131,
+    "name": "Lokhlass",
+    "type1": 15,
+    "type2": 11
+  },
+  {
+    "id": 130,
+    "name": "Léviator",
+    "type1": 3,
+    "type2": 11
+  },
+  {
+    "id": 129,
+    "name": "Magicarpe",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 127,
+    "name": "Scarabrute",
+    "type1": 7,
+    "type2": 0
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 125,
+    "name": "Elektek",
+    "type1": 13,
+    "type2": 0
+  },
+  {
+    "id": 124,
+    "name": "Lippoutou",
+    "type1": 14,
+    "type2": 15
+  },
+  {
+    "id": 123,
+    "name": "Insécateur",
+    "type1": 3,
+    "type2": 7
+  },
+  {
+    "id": 122,
+    "name": "M. Mime",
+    "type1": 18,
+    "type2": 14
+  },
+  {
+    "id": 121,
+    "name": "Staross",
+    "type1": 14,
+    "type2": 11
+  },
+  {
+    "id": 120,
+    "name": "Stari",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 119,
+    "name": "Poissoroy",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 118,
+    "name": "Poissirène",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 117,
+    "name": "Hypocéan",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 116,
+    "name": "Hypotrempe",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 115,
+    "name": "Kangourex",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 114,
+    "name": "Saquedeneu",
+    "type1": 12,
+    "type2": 0
+  },
+  {
+    "id": 113,
+    "name": "Leveinard",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 112,
+    "name": "Rhinoféros",
+    "type1": 6,
+    "type2": 5
+  },
+  {
+    "id": 111,
+    "name": "Rhinocorne",
+    "type1": 6,
+    "type2": 5
+  },
+  {
+    "id": 110,
+    "name": "Smogogo",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 109,
+    "name": "Smogo",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 108,
+    "name": "Excelangue",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 107,
+    "name": "Tygnon",
+    "type1": 2,
+    "type2": 0
+  },
+  {
+    "id": 106,
+    "name": "Kicklee",
+    "type1": 2,
+    "type2": 0
+  },
+  {
+    "id": 105,
+    "name": "Ossatueur",
+    "type1": 5,
+    "type2": 0
+  },
+  {
+    "id": 104,
+    "name": "Osselait",
+    "type1": 5,
+    "type2": 0
+  },
+  {
+    "id": 103,
+    "name": "Noadkoko",
+    "type1": 14,
+    "type2": 12
+  },
+  {
+    "id": 102,
+    "name": "Noeunoeuf",
+    "type1": 14,
+    "type2": 12
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "type1": 13,
+    "type2": 0
+  },
+  {
+    "id": 100,
+    "name": "Voltorbe",
+    "type1": 13,
+    "type2": 0
+  },
+  {
+    "id": 99,
+    "name": "Krabboss",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 97,
+    "name": "Hypnomade",
+    "type1": 14,
+    "type2": 0
+  },
+  {
+    "id": 96,
+    "name": "Soporifik",
+    "type1": 14,
+    "type2": 0
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "type1": 5,
+    "type2": 6
+  },
+  {
+    "id": 94,
+    "name": "Ectoplasma",
+    "type1": 4,
+    "type2": 8
+  },
+  {
+    "id": 93,
+    "name": "Spectrum",
+    "type1": 4,
+    "type2": 8
+  },
+  {
+    "id": 92,
+    "name": "Fantominus",
+    "type1": 4,
+    "type2": 8
+  },
+  {
+    "id": 91,
+    "name": "Crustabri",
+    "type1": 15,
+    "type2": 11
+  },
+  {
+    "id": 90,
+    "name": "Kokiyas",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 89,
+    "name": "Grotadmorv",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 88,
+    "name": "Tadmorv",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 87,
+    "name": "Lamantine",
+    "type1": 15,
+    "type2": 11
+  },
+  {
+    "id": 86,
+    "name": "Otaria",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 83,
+    "name": "Canarticho",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 82,
+    "name": "Magnéton",
+    "type1": 9,
+    "type2": 13
+  },
+  {
+    "id": 81,
+    "name": "Magnéti",
+    "type1": 9,
+    "type2": 13
+  },
+  {
+    "id": 80,
+    "name": "Flagadoss",
+    "type1": 14,
+    "type2": 11
+  },
+  {
+    "id": 79,
+    "name": "Ramoloss",
+    "type1": 14,
+    "type2": 11
+  },
+  {
+    "id": 78,
+    "name": "Galopa",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 76,
+    "name": "Grolem",
+    "type1": 5,
+    "type2": 6
+  },
+  {
+    "id": 75,
+    "name": "Gravalanch",
+    "type1": 5,
+    "type2": 6
+  },
+  {
+    "id": 74,
+    "name": "Racaillou",
+    "type1": 5,
+    "type2": 6
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "type1": 4,
+    "type2": 11
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "type1": 4,
+    "type2": 11
+  },
+  {
+    "id": 71,
+    "name": "Empiflor",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 70,
+    "name": "Boustiflor",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 69,
+    "name": "Chétiflor",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 68,
+    "name": "Mackogneur",
+    "type1": 2,
+    "type2": 0
+  },
+  {
+    "id": 67,
+    "name": "Machopeur",
+    "type1": 2,
+    "type2": 0
+  },
+  {
+    "id": 66,
+    "name": "Machoc",
+    "type1": 2,
+    "type2": 0
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "type1": 14,
+    "type2": 0
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "type1": 14,
+    "type2": 0
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "type1": 14,
+    "type2": 0
+  },
+  {
+    "id": 62,
+    "name": "Tartard",
+    "type1": 2,
+    "type2": 11
+  },
+  {
+    "id": 61,
+    "name": "Tétarte",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 60,
+    "name": "Ptitard",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 59,
+    "name": "Arcanin",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 58,
+    "name": "Caninos",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 57,
+    "name": "Colossinge",
+    "type1": 2,
+    "type2": 0
+  },
+  {
+    "id": 56,
+    "name": "Férosinge",
+    "type1": 2,
+    "type2": 0
+  },
+  {
+    "id": 55,
+    "name": "Akwakwak",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 54,
+    "name": "Psykokwak",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 52,
+    "name": "Miaouss",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 51,
+    "name": "Triopikeur",
+    "type1": 5,
+    "type2": 0
+  },
+  {
+    "id": 50,
+    "name": "Taupiqueur",
+    "type1": 5,
+    "type2": 0
+  },
+  {
+    "id": 49,
+    "name": "Aéromite",
+    "type1": 4,
+    "type2": 7
+  },
+  {
+    "id": 48,
+    "name": "Mimitoss",
+    "type1": 4,
+    "type2": 7
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "type1": 12,
+    "type2": 7
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "type1": 12,
+    "type2": 7
+  },
+  {
+    "id": 45,
+    "name": "Rafflesia",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 44,
+    "name": "Ortide",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 43,
+    "name": "Mystherbe",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 42,
+    "name": "Nosferalto",
+    "type1": 3,
+    "type2": 4
+  },
+  {
+    "id": 41,
+    "name": "Nosferapti",
+    "type1": 3,
+    "type2": 4
+  },
+  {
+    "id": 40,
+    "name": "Grodoudou",
+    "type1": 18,
+    "type2": 1
+  },
+  {
+    "id": 39,
+    "name": "Rondoudou",
+    "type1": 18,
+    "type2": 1
+  },
+  {
+    "id": 38,
+    "name": "Feunard",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 37,
+    "name": "Goupix",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 36,
+    "name": "Mélodelfe",
+    "type1": 18,
+    "type2": 0
+  },
+  {
+    "id": 35,
+    "name": "Mélofée",
+    "type1": 18,
+    "type2": 0
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "type1": 5,
+    "type2": 4
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 32,
+    "name": "Nidoran",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "type1": 5,
+    "type2": 4
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 29,
+    "name": "Nidoran",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 28,
+    "name": "Sablaireau",
+    "type1": 5,
+    "type2": 0
+  },
+  {
+    "id": 27,
+    "name": "Sabelette",
+    "type1": 5,
+    "type2": 0
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "type1": 13,
+    "type2": 0
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "type1": 13,
+    "type2": 0
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 23,
+    "name": "Abo",
+    "type1": 4,
+    "type2": 0
+  },
+  {
+    "id": 22,
+    "name": "Rapasdepic",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 21,
+    "name": "Piafabec",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 20,
+    "name": "Rattatac",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "type1": 1,
+    "type2": 0
+  },
+  {
+    "id": 18,
+    "name": "Roucarnage",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 17,
+    "name": "Roucoups",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 16,
+    "name": "Roucool",
+    "type1": 3,
+    "type2": 1
+  },
+  {
+    "id": 15,
+    "name": "Dardargnan",
+    "type1": 4,
+    "type2": 7
+  },
+  {
+    "id": 14,
+    "name": "Coconfort",
+    "type1": 4,
+    "type2": 7
+  },
+  {
+    "id": 13,
+    "name": "Aspicot",
+    "type1": 4,
+    "type2": 7
+  },
+  {
+    "id": 12,
+    "name": "Papilusion",
+    "type1": 3,
+    "type2": 7
+  },
+  {
+    "id": 11,
+    "name": "Chrysacier",
+    "type1": 7,
+    "type2": 0
+  },
+  {
+    "id": 10,
+    "name": "Chenipan",
+    "type1": 7,
+    "type2": 0
+  },
+  {
+    "id": 9,
+    "name": "Tortank",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 8,
+    "name": "Carabaffe",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 7,
+    "name": "Carapuce",
+    "type1": 11,
+    "type2": 0
+  },
+  {
+    "id": 6,
+    "name": "Dracaufeu",
+    "type1": 3,
+    "type2": 10
+  },
+  {
+    "id": 5,
+    "name": "Reptincel",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 4,
+    "name": "Salamèche",
+    "type1": 10,
+    "type2": 0
+  },
+  {
+    "id": 3,
+    "name": "Florizarre",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 2,
+    "name": "Herbizarre",
+    "type1": 4,
+    "type2": 12
+  },
+  {
+    "id": 1,
+    "name": "Bulbizarre",
+    "type1": 4,
+    "type2": 12
+  }
+]
